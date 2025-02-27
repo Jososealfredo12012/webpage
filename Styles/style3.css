@@ -1,0 +1,41 @@
+*{
+    text-align: center;
+    font-size: small;
+}
+
+body{
+    background-color: #81919f;
+}
+
+.table h2{
+    margin: 40px auto;
+}
+
+table{
+    width: 80%;
+}
+
+td{
+    text-align: justify;
+}
+
+.t_tag{
+    width: 100px;
+}
+
+.t_nombre{
+    width: 150px;
+}
+
+th{
+    height: 26px;
+}
+
+table, th, td{
+    border: 1px solid;
+}
+
+.html{
+    margin-top: 40px;
+    margin: 0 auto;
+}
