@@ -38,6 +38,7 @@ td{
 
 th{
     height: 26px;
+    background-color: burlywood;
 }
 
 table, th, td{
@@ -47,4 +48,8 @@ table, th, td{
 .html{
     margin-top: 40px;
     margin: 0 auto;
+}
+
+tbody{
+    background-color: darksalmon;
 }
