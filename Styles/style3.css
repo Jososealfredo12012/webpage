@@ -53,3 +53,7 @@ table, th, td{
 tbody{
     background-color: darksalmon;
 }
+
+.symbol{
+    text-align: center;
+}
