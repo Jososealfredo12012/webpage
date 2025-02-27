@@ -4,6 +4,10 @@
     font-family: 'Roboto', Arial, Helvetica, sans-serif;
 }
 
+#box_model{
+    width: 1000px;
+}
+
 section{
     margin-bottom: 70px;
 }
