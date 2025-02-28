@@ -28,6 +28,14 @@ nav{
     margin: 0 auto;
 }
 
+.index_nav a li{
+    box-shadow: 3px 3px;
+}
+
+.index_nav a li:active{
+    box-shadow: 3px 3px inset;
+}
+
 ul{
     margin: 0 auto;
     border: 2px solid;
