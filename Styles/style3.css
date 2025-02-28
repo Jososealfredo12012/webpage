@@ -4,6 +4,21 @@
     font-family: 'Roboto', Arial, Helvetica, sans-serif;
 }
 
+.home{
+    position: absolute;
+    left: 6px;
+    top: 6px;
+    background-color: aliceblue;
+}
+
+.home:hover{
+    cursor: pointer;
+}
+
+.home:active{
+    background-color: rgb(70, 70, 70);
+}
+
 #box_model{
     width: 1000px;
 }
