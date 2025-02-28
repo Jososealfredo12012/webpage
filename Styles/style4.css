@@ -84,3 +84,15 @@ body{
 .text_stiles div{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+footer{
+    margin-top: 2px;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+footer button a{
+    text-decoration: none;
+}
