@@ -6,7 +6,7 @@
 
 
 body{
-    background-color: rgb(1, 73, 73);
+    background-color: hsl(356, 72%, 66%);
 }
 
 section{
@@ -14,7 +14,7 @@ section{
     border: 2px solid;
     width: 750px;
     height: 900px;
-    background-image: url('https://marketplace.canva.com/EAGIenJ__Xk/1/0/1131w/canva-brown-watercolor-floral-aesthetic-background-document-a4-svsYZ2xRFIs.jpg');
+    background-color: #D7AF70;
 }
 
 h1{
@@ -42,13 +42,13 @@ ul{
     padding: 20px 60px;
     width: max-content;
     font-size: 50px;
-    background-image: url('https://plus.unsplash.com/premium_photo-1701534008693-0eee0632d47a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8d2Vic2l0ZSUyMGJhY2tncm91bmR8ZW58MHx8MHx8fDA%3D');
+    background-color: hsl(349, 78%, 62%);
 }
 
 li{
     padding: 5px;
     border: 2px solid;
-    background-color: rgb(187, 98, 98);
+    background-color: #D7AF70;
     margin: 30px;
 }
 
@@ -58,7 +58,7 @@ a{
 }
 
 a:hover{
-    color: brown;
+    color: #E76B74;
 }
 
 a:focus{
@@ -66,5 +66,5 @@ a:focus{
 }
 
 a:active{
-    color: crimson;
+    color: #585B56;
 }
