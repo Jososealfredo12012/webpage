@@ -7,6 +7,7 @@ body{
 .separador{
     border: 1px solid black;
     height: auto;
+    min-width: 760px;
     padding-left: 8px;
     padding-right: 8px;
     margin: 20px auto;
@@ -46,6 +47,7 @@ body{
     height: 220px;
     padding: 3px;
     margin-bottom: 15px;
+    min-width: 760px;
 }
 
 .div_fuentes div{
@@ -70,6 +72,7 @@ body{
     border: 1px solid black;
     height: 220px;
     padding: 3px;
+    min-width: 760px;
 }
 
 .text_stiles div{
