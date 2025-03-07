@@ -7,14 +7,20 @@
 
 body{
     background-color: hsl(356, 72%, 66%);
+    display: flex;
+    align-content: center;
+    justify-content: center;
 }
 
 section{
     margin: 20px auto;
     border: 2px solid;
-    width: 750px;
-    height: 900px;
+    min-width: 750px;
+    min-height: 900px;
     background-color: #D7AF70;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 1;
 }
 
 h1{
