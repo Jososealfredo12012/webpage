@@ -84,3 +84,7 @@ figure{
 .break{
     flex-basis: 100%;
 }
+
+td{
+    padding-left: 6px;
+}
